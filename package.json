@@ -1,0 +1,11 @@
+{
+  "name": "com.moutaz.impossible-cube",
+  "version": "1.0.0",
+  "displayName": "Impossible Cube",
+  "description": "A cube where each face opens onto its own world, using stencil-filtered Render Objects in URP.",
+  "unity": "2022.3",
+  "author": { "name": "Moutaz Pharaon" },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.0"
+  }
+}
